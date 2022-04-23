@@ -1,3 +1,0 @@
-   ID                   Ho Ten        GT      Tuoi        DT        DL        DA       DTB
-    1          nguyen hoang an       nam        19       6.7       8.8      9.12   8.20667
-    2                   le yen        nu        19       6.6       7.8    9.6666    8.0222
